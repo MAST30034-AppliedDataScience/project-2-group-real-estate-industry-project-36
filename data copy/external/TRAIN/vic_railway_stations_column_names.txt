@@ -1,0 +1,14 @@
+﻿The column names in a Shape file are limited to 10 characters
+This lists the short column name and the original column name in the database table
+-----------------------------------------------------------------------------------------------------
+
+STATUS = STATUS
+INTERSTATE = INTERSTATE
+PREMIUM = PREMIUM
+STOP_ZONE = STOP_ZONE
+STID_VLINE = STOPID_VLINE
+STATION = STATION_NAME
+METRO = METRO
+COMMENTS = COMMENTS
+STOPID_MTR = STOPID_METRO
+VLINE = VLINE
